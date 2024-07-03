@@ -1,0 +1,14 @@
+Topics covered so far:-
+
+Pattern Printing
+OOP
+Sorting
+Collections
+File Handling
+Exception Handling
+
+Advanced Java:
+
+JDBC Crud Operations
+
+Further to focus on servlet and jsp

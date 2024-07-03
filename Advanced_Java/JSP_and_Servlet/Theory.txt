@@ -1,0 +1,24 @@
+Note-
+We know that the browser renders html pages(static pages) only but it is not exactly true 
+as it render pages based on tags and markups.
+(like pages created like login.js or signup.ts(dynamic pages) through react/nextjs)
+
+Jsp and servlet
+
+JSP- stand for Java Server Pages
+(pages like login.jsp are formed in java which are render through servlet)
+
+-is a server side technology
+-used to create dynamic web content
+-JSP tags are used to convert java code into Html pages
+-has access to entire api of java
+-extended version of servlet
+
+servlet
+
+-work on the server side
+-capable of handling complex requests obtained from the webserver
+and able to process it and then able to provide the dynamic response accordingly
+
+-are platform independent
+-JDBC extends servlet class for connectivity

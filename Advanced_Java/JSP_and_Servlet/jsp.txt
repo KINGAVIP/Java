@@ -1,0 +1,11 @@
+JSP essentially are .html files with some extra syntax and a couple of minor
+initial differences
+
+.html suffix is replaced by .jsp
+the following tag is added to the top of .html markup elements
+
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
+JSP syntax
+
+<% Java Code %>

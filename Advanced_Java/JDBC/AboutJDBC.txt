@@ -1,0 +1,18 @@
+JDBC stands for Java Database Connectivity.
+JDBC is a API or tool used in java applications to connect and interact with database.
+Why Advanced Java?
+    through concepts of core java we can build applications that run on a single 
+    system known as standalone applications.
+    Hence to remove this restrictions and build more practical applications we use 
+    concepts of Advanced java.
+
+3 primarily components of Advanced java are - JSP, Servlets and JDBC
+
+JSP stands for Java Server Pages where the pages are considered as view components 
+known as presentation logic (eg- login.jsp, home.jsp)
+
+Servlet is meant for internal processing going on such as reading, fetching values from
+the database, comparison etc in the backend as processing logic in our process servlet.
+Servlets do not contain java classes for this background processing for processing logic
+
+JDBC is meant for Connectivity of Java applications in servlets as discussed to the database.
